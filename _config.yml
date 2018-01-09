@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Shefali Umrania
+bio: "The important thing is to not stop questioning."
 
 # twitter summary info
-description: A blog about technology and stuff related
+#description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,10 +14,10 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://drive.google.com/file/d/1orp7jQdzSxX7FXSW5-bmFyWl9HZW5eEx/view?usp=sharing
 
 url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+your url: http://sumrania.github.io
 
 permalink: /:title/
 
@@ -34,37 +34,37 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: sumrania
+#twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: sumrania
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: sumrania
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+#medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: umrania.shefali@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Shefali Umrania
+        #bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        #twitter: johndoe
+    # jamesfoster:
+    #     name: James Foster
+    #     bio: A Man who develops software with coffee
+    #     external-image: false
+    #     picture: assets/images/james.jpg
+    #     twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,11 +76,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+#blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -109,3 +109,5 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
+
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, tasks]
