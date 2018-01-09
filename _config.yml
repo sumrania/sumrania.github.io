@@ -16,8 +16,8 @@ resume: true
 resume-external: true
 resume-url: https://drive.google.com/file/d/1orp7jQdzSxX7FXSW5-bmFyWl9HZW5eEx/view?usp=sharing
 
-url: https://koppl.in/indigo
-your url: http://sumrania.github.io
+#url: https://koppl.in/indigo
+url: http://sumrania.github.io
 
 permalink: /:title/
 
