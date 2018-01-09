@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-![Profile Image]({{ site.url }}//assets/images/personal-photo-round.png)
+![Profile Image]({{ site.url }}/assets/images/personal-photo-round.png)
 
 Hi! I'm a Master’s student at Carnegie Mellon University studying Computational Biology. My interests lie at the intersection of machine learning and healthcare. I'm currently looking for full time opportunities starting May 2018. 
 
