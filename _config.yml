@@ -34,15 +34,15 @@ disqus:
   categories: [blog] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
+linkedin: sumrania
+github: sumrania
 facebook: sumrania
 #twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: sumrania
 # youtube: myyoutube
 # spotify: myspotify
-github: sumrania
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -76,7 +76,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-#projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

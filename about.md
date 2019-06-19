@@ -5,7 +5,9 @@ layout: page
 
 ![Profile Image]({{ site.url }}/assets/images/personal-photo-round.png)
 
-Hi! I'm a Master’s student at Carnegie Mellon University studying Computational Biology. My interests lie at the intersection of machine learning and healthcare. I'm currently looking for full time opportunities starting May 2018. 
+Hi! I'm a Machine Learning Research Engineer at Imagen Technologies. My interests lie at the intersection of machine learning and healthcare.
+
+<!-- Hi! I'm a Master’s student at Carnegie Mellon University studying Computational Biology. My interests lie at the intersection of machine learning and healthcare. I'm currently looking for full time opportunities starting May 2018.--> 
 
 If you want to talk about technology, machine learning, medical imaging or global health feel free to [email me](mailto:{{ site.email }}).
 
@@ -17,6 +19,17 @@ If you want to talk about technology, machine learning, medical imaging or globa
 <!-- 
 ### Work Experience -->
 
+
+<div class="side-by-side">
+    <div class="toleft">
+        <img class="image" src="{{ site.url }}/assets/images/about/imagen_logo.jpg" alt="Imagen" width="500" height="50"><br><br>
+        <figcaption class="caption">Machine Learning Research Engineer</figcaption><br>
+    </div>
+
+    <div class="toright">
+        <p>Developing deep learning based methods for the detection of fractures from X-ray images using PyTorch. Designing and managing radiology research studies. </p>
+    </div>
+</div>
 
 <div class="side-by-side">
     <div class="toleft">
