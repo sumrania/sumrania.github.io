@@ -9,7 +9,7 @@ Hi! I'm a Machine Learning Research Engineer at Imagen Technologies. My interest
 
 <!-- Hi! I'm a Master’s student at Carnegie Mellon University studying Computational Biology. My interests lie at the intersection of machine learning and healthcare. I'm currently looking for full time opportunities starting May 2018.--> 
 
-If you want to talk about technology, machine learning, medical imaging or global health feel free to [email me](mailto:{{ site.email }}).
+If you want to talk about technology, machine learning, medical imaging or global health, feel free to [email me](mailto:{{ site.email }}).
 
 <!-- <p>She received her bachelors degree in Biomedical Engineering from Illinois Institute of Technology in 2013.  Prior to CMU, she worked at an ad-tech company in London, UK and New York, NY trying to make online ads more worthwhile for users. She likes to take time out to read, travel and play the violin.</p> -->
 
@@ -22,7 +22,7 @@ If you want to talk about technology, machine learning, medical imaging or globa
 
 <div class="side-by-side">
     <div class="toleft">
-        <img class="image" src="{{ site.url }}/assets/images/about/imagen_logo.jpg" alt="Imagen" width="500" height="50"><br><br>
+        <img class="image" src="{{ site.url }}/assets/images/about/imagen_logo.jpg" alt="Imagen" width="500" height="40"><br><br>
         <figcaption class="caption">Machine Learning Research Engineer</figcaption><br>
     </div>
 
